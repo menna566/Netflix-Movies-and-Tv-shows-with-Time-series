@@ -19,11 +19,11 @@ The goal of this project is to use time series models to get the best analysis w
 
 and I also discovered what countries watch Netflix the most which was the United states as we see :
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/countries.png)
 
 we also added the date and the month and the year columns to see the distribution of the shows that got added at those times :
 
-![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/countries.png)
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/datee.png) ![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/year.png)
 
 
 ## Results :
