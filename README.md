@@ -23,8 +23,8 @@ and I also discovered what countries watch Netflix the most which was the United
 
 we also added the date and the month and the year columns to see the distribution of the shows that got added at those times :
 
-![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/year.png)![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/datee.png)
-
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/datee.png)
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/year.png)
 
 ## Results :
 we applied tickey-Fuller test to provide us information about the stationarity of the data :
