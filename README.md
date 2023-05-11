@@ -2,7 +2,7 @@
 ## Description:
 Netflix find it hard to Know More about their target Audience and Measuring the changing Scale of Their preferences through the year so with using Time series analysis we can make netflix know more :)
 ## objective :
-The goal of this project is to use time series models to get the best analysis we can get and provide netflix with more information 
+The goal of this project is to use time series models to get the best analysis we can get and provide Netflix with more information 
 ## Requirements:
 -numpy
 
