@@ -40,7 +40,7 @@ we applied tickey-Fuller test to provide us information about the stationarity o
 
 -So as higher p-value suggests weak evidence against the null hypothesis and also the test statistic (-0.771501) is greater than the critical values so This indicates that the time series is non-stationary, as it does not provide strong evidence against the null hypothesis of non-stationarity.
 
-Here is the results after applying arima model :
+##### Here is the results after applying arima model :
 
 ![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/ARIMA-Model%20.png)
 
