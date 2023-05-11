@@ -15,7 +15,7 @@ The goal of this project is to use time series models to get the best analysis w
 ## Approach:
 -after loading the data and doing the preprocessing and cleaing step,I will do some visualization that will help me to know about Netflix audience as below I know now that netflix has over 50% of her audiance is adults and teens while the lowest rate of audiance that watch netflix is kids
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/netflix%20audiance.png)
 
 and I also discovered what countries watch Netflix the most which was the United states as we see :
 
@@ -23,11 +23,13 @@ and I also discovered what countries watch Netflix the most which was the United
 
 we also added the date and the month and the year columns to see the distribution of the shows that got added at those times :
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/countries.png)
+
+
 ## Results :
 we applied tickey-Fuller test to provide us information about the stationarity of the data :
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/test_sta.png)
 
 
 
@@ -36,5 +38,5 @@ we applied tickey-Fuller test to provide us information about the stationarity o
 
 Here is the results after applying arima model :
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Netflix-shows-analysis-with-Time-series/blob/main/ARIMA-Model%20.png)
 
