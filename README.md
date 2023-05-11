@@ -34,7 +34,11 @@ we applied tickey-Fuller test to provide us information about the stationarity o
 
 
 -Test Statistic: The test statistic is a measure of how strong the evidence is against the null hypothesis of non-stationarity,In this case the test statistic is -2.296104.
--p-value: The p-value indicates the probability of observing the test statistic given that the null hypothesis is true. In this case, the p-value is  0.173227 its high as higher p-value suggests weak evidence against the null hypothesis and also the test statistic (-0.771501) is greater than the critical values so This indicates that the time series is non-stationary, as it does not provide strong evidence against the null hypothesis of non-stationarity.
+
+
+-p-value: The p-value indicates the probability of observing the test statistic given that the null hypothesis is true. In this case, the p-value is  0.173227 its high 
+
+-So as higher p-value suggests weak evidence against the null hypothesis and also the test statistic (-0.771501) is greater than the critical values so This indicates that the time series is non-stationary, as it does not provide strong evidence against the null hypothesis of non-stationarity.
 
 Here is the results after applying arima model :
 
